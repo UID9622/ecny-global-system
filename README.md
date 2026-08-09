@@ -1,5 +1,11 @@
 # 🌐 数字人民币全球化系统｜完整技术方案
 
+[![License](https://img.shields.io/badge/license-MulanPSL%20v2%20%7C%20CC%20BY--NC--SA%204.0-green)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/UID9622/ecny-global-system?style=social)](https://github.com/UID9622/ecny-global-system/stargazers)
+[![Issues](https://img.shields.io/github/issues/UID9622/ecny-global-system)](https://github.com/UID9622/ecny-global-system/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/UID9622/ecny-global-system)](https://github.com/UID9622/ecny-global-system/commits)
+
+
 > **作者**：UID9622 龙魂数字身份系统
 > 
 > **时间**：2025年12月
